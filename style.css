@@ -1,0 +1,33 @@
+h1,h2{
+    color:white;
+    background-color: rgb(58, 58, 58);
+    text-align:center;
+}
+
+.menu{
+    text-align:end;
+}
+
+.grid{
+    display:flex;
+    justify-content: space-evenly;
+    background-color:rgb(202, 230, 255);
+    border-radius: 50px;
+}
+
+.Item{
+    border: 2px solid black;
+    border-radius: 20px;
+    background-color: rgb(216, 216, 216);
+    width: 310px;
+    font-family: fantasy;
+}
+.header{
+    display:flex;
+    justify-content: space-between;
+    background-color: rgb(58, 58, 58);
+}
+
+body{
+    background-color: rgb(58, 58, 58);
+}
